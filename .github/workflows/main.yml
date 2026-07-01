@@ -1,7 +1,7 @@
 name: Hello World Training Workflow
 
 on:
-  workflow_dispatch:
+  push:
 
 jobs:
   greet:
